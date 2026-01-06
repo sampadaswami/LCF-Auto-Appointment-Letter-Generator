@@ -41,8 +41,8 @@ with h_col1:
         st.info("🏢 LCF Logo")
 
 with h_col2:
-    st.markdown("<h1 class='lcf-title'>Lighthouse Communities Foundation</h1>", unsafe_allow_html=True)
-    st.markdown("<p class='lcf-subtitle'>Auto Appointment Letter Generator</p>", unsafe_allow_html=True)
+    st.markdown("<h2 class='lcf-title'>Lighthouse Communities Foundation</h2>", unsafe_allow_html=True)
+    st.markdown("<h4 class='lcf-subtitle'>Auto Appointment Letter Generator</h4>", unsafe_allow_html=True)
     st.caption("Designed By: Sampada Swami – HR Analytics Associate")
 
 st.divider()
@@ -192,3 +192,4 @@ else:
     st.info("👋 Welcome! Please upload your employee data and word template to begin.")
 
 st.markdown("<div class='footer'>© 2026 LCF | Sampada Swami</div>", unsafe_allow_html=True)
+
