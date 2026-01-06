@@ -1,6 +1,5 @@
-Flask
+streamlit
 pandas
-docxtpl
-docx2pdf
 openpyxl
-gunicorn
+docxtpl
+python-docx
